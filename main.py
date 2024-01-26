@@ -12,5 +12,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Ismail Yahyaoui')
+    print("my name is ismail yahyaoui and I am writing this code for machine learning course")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
